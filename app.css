@@ -1,0 +1,17 @@
+input {
+    display: block;
+}
+
+ #submit {
+    margin-top: 5px;
+}
+
+body {
+    display: block;
+}
+
+.remove-button {
+    border-radius: 55%;
+    color:black;
+    background-color: red;
+}
